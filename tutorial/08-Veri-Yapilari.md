@@ -1,6 +1,6 @@
 8 Veri Yapıları
 
-# Veri yapıları
+# Veri Yapıları
 
 Bir programcının en önemli araçlarından biri veri yapılarıdır.
 
