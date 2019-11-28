@@ -2,14 +2,5 @@
 
 # OSC
 
-In addition to MIDI, another way to get information in and out of Sonic
-Pi is via the network using a simple protocol called OSC - Open Sound
-Control. This will let you send messages to and from external programs
-(both running on your computer and on external computers) which opens up
-the potential for control way beyond MIDI which has limitations due to
-its 1980s design.
-
-For example, you could write a program in another programming language
-which sends and receives OSC (there are OSC libraries for pretty much
-every common language) and work directly with Sonic Pi. What you can use
-this for is only limited by your imagination.
+MIDI'ye ek olarak, Sonic Pi'ye girip bilgi almanın başka bir yolu da, OSC  -Open Sound Control- adı verilen basit bir protokolu kullanarak ağ üzerinden almaktır. Bu, dış programlara(sizin bilgisayarınızda ve dış bilgisayarda çalışan) mesaj gönderebilmenizi ve onlardan mesaj alabilmenizi sağlar böylece MIDI’ye kıyasla çok büyük bir kontrol potansiyeli sağlar.
+Örnek olarak, OSC kullanan başka bir programlama dilinde(yaygın olarak kullanılan çoğu programlama dilinde OSC kütüphaneleri bulunmakta) yazdıklarınızı Sonic Pi’da da çalıştırabilirsiniz. Bu konudaki tek limitiniz kendi hayalgücünüz.
